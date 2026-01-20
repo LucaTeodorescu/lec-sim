@@ -1,0 +1,49 @@
+# LEC 2026 Versus Teams
+teams:
+  - name: "Fnatic"
+    short_name: "FNC"
+    is_erl: false
+
+  - name: "G2 Esports"
+    short_name: "G2"
+    is_erl: false
+
+  - name: "GIANTX"
+    short_name: "GX"
+    is_erl: false
+
+  - name: "Karmine Corp"
+    short_name: "KC"
+    is_erl: false
+
+  - name: "Shifters"
+    short_name: "SHFT"
+    is_erl: false
+
+  - name: "Team Vitality"
+    short_name: "VIT"
+    is_erl: false
+
+  - name: "Team Heretics"
+    short_name: "TH"
+    is_erl: false
+
+  - name: "Movistar KOI"
+    short_name: "MKOI"
+    is_erl: false
+
+  - name: "SK Gaming"
+    short_name: "SK"
+    is_erl: false
+
+  - name: "Natus Vincere"
+    short_name: "NAVI"
+    is_erl: false
+
+  - name: "Los Ratones"
+    short_name: "LR"
+    is_erl: true
+
+  - name: "Karmine Corp Blue"
+    short_name: "KCB"
+    is_erl: true

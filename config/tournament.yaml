@@ -1,0 +1,47 @@
+# LEC 2026 Versus Tournament Configuration
+tournament:
+  name: "LEC 2026 Versus"
+  region: "EMEA"
+
+regular_season:
+  format: "single_round_robin"
+  teams: 12
+  matches_per_team: 11
+  match_format: "bo1"
+
+playoffs:
+  format: "double_elimination"
+  teams: 8
+
+  rounds:
+    upper_qf:
+      format: "bo3"
+      matches: 4
+      seeding: [[1, 8], [4, 5], [2, 7], [3, 6]]
+    upper_sf:
+      format: "bo3"
+      matches: 2
+    upper_final:
+      format: "bo5"
+      matches: 1
+    lower_r1:
+      format: "bo3"
+      matches: 2
+    lower_r2:
+      format: "bo3"
+      matches: 2
+    lower_sf:
+      format: "bo5"
+      matches: 1
+    lower_final:
+      format: "bo5"
+      matches: 1
+    grand_final:
+      format: "bo5"
+      matches: 1
+
+tiebreakers:
+  order:
+    - "head_to_head"
+    - "strength_of_victory"
+    - "coinflip"

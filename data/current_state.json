@@ -1,0 +1,28 @@
+{
+  "tournament": "LEC 2026 Versus",
+  "snapshot_date": "2026-01-20",
+  "week": 1,
+  "notes": "Week 1 completed. Each team has played 3 matches.",
+  "completed_matches": [
+    {"team_a": "FNC", "team_b": "LR", "winner": "FNC", "score": [1, 0], "week": 1, "day": 1},
+    {"team_a": "GX", "team_b": "SHFT", "winner": "GX", "score": [1, 0], "week": 1, "day": 1},
+    {"team_a": "TH", "team_b": "NAVI", "winner": "NAVI", "score": [1, 0], "week": 1, "day": 1},
+    {"team_a": "SK", "team_b": "VIT", "winner": "VIT", "score": [1, 0], "week": 1, "day": 1},
+    {"team_a": "KC", "team_b": "KCB", "winner": "KC", "score": [1, 0], "week": 1, "day": 1},
+    {"team_a": "G2", "team_b": "MKOI", "winner": "MKOI", "score": [1, 0], "week": 1, "day": 1},
+
+    {"team_a": "TH", "team_b": "SHFT", "winner": "SHFT", "score": [1, 0], "week": 1, "day": 2},
+    {"team_a": "LR", "team_b": "KCB", "winner": "KCB", "score": [1, 0], "week": 1, "day": 2},
+    {"team_a": "VIT", "team_b": "NAVI", "winner": "NAVI", "score": [1, 0], "week": 1, "day": 2},
+    {"team_a": "FNC", "team_b": "SK", "winner": "SK", "score": [1, 0], "week": 1, "day": 2},
+    {"team_a": "G2", "team_b": "GX", "winner": "GX", "score": [1, 0], "week": 1, "day": 2},
+    {"team_a": "KC", "team_b": "MKOI", "winner": "MKOI", "score": [1, 0], "week": 1, "day": 2},
+
+    {"team_a": "NAVI", "team_b": "FNC", "winner": "FNC", "score": [1, 0], "week": 1, "day": 3},
+    {"team_a": "KCB", "team_b": "VIT", "winner": "VIT", "score": [1, 0], "week": 1, "day": 3},
+    {"team_a": "TH", "team_b": "GX", "winner": "TH", "score": [1, 0], "week": 1, "day": 3},
+    {"team_a": "SHFT", "team_b": "MKOI", "winner": "SHFT", "score": [1, 0], "week": 1, "day": 3},
+    {"team_a": "LR", "team_b": "KC", "winner": "KC", "score": [1, 0], "week": 1, "day": 3},
+    {"team_a": "G2", "team_b": "SK", "winner": "G2", "score": [1, 0], "week": 1, "day": 3}
+  ]
+}
