@@ -17,7 +17,7 @@ Requires Python 3.11+ and [uv](https://docs.astral.sh/uv/).
 
 ```bash
 # Clone and enter the project
-cd standings
+cd lec-sim
 
 # Install dependencies
 uv sync
